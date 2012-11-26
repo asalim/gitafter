@@ -1,4 +1,6 @@
 glass2
 ======
 
-The glass2 project that will become the brand new os
+The glass2 project
+
+core project of the great new glass OS
