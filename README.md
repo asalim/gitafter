@@ -1,4 +1,1 @@
-glass2
-======
-
-The glass2 project
+The glass2 project CHANGED
